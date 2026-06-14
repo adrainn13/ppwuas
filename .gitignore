@@ -23,3 +23,10 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+error_log
+*.log
+.DS_Store
+Thumbs.db
+
+config/koneksi.php
+config/
