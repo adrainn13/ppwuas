@@ -187,7 +187,7 @@ Password: admin123
 - Harga dan stok
 
 ### Admin Panel
-![Admin](screenshot-admin.png)
+![Admin]([screenshot-admin.png](https://github-production-user-asset-6210df.s3.amazonaws.com/280581372/609257894-220188e4-dbde-486f-a456-7c4868bc5b96.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260617%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260617T141821Z&X-Amz-Expires=300&X-Amz-Signature=1efc51d215a9eeb986cb7ada7a7ebce3cb24043b3be7f0cce74860c0a2d9ef2a&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng))
 - Tabel produk dengan aksi CRUD
 - Form tambah/edit produk
 - Konfirmasi hapus
