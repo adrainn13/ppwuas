@@ -1,0 +1,12 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" fill="#dcfce7"/>
+  <g>
+    <circle cx="400" cy="320" r="80" fill="#22c55e" opacity="0.3"/>
+    <path d="M400 280 L420 320 L380 320 Z" fill="#16a34a"/>
+    <rect x="395" y="320" width="10" height="80" fill="#16a34a"/>
+    <ellipse cx="375" cy="310" rx="15" ry="25" fill="#22c55e" opacity="0.5"/>
+    <ellipse cx="425" cy="315" rx="12" ry="22" fill="#22c55e" opacity="0.5"/>
+  </g>
+  <text x="400" y="500" font-family="Arial, sans-serif" font-size="32" fill="#16a34a" text-anchor="middle" font-weight="bold">Gambar Produk</text>
+  <text x="400" y="540" font-family="Arial, sans-serif" font-size="20" fill="#6b7280" text-anchor="middle">800 x 800 px</text>
+</svg>
