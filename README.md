@@ -175,19 +175,35 @@ Password: admin123
 ## Screenshot
 
 ### Homepage
-![Homepage](screenshot-homepage.png)
+![Homepage](https://github.com/user-attachments/assets/bf1e358c-0ad3-4795-985c-ac5f6c3f1f70)
+![Homepage](https://github.com/user-attachments/assets/41210223-7d4a-45c0-b17a-9933c26732b4)
+
 - Hero section dengan statistik
 - Search bar dan filter kategori
 - Grid card produk dengan pagination
 
 ### Detail Produk
-![Detail](screenshot-detail.png)
+![Detail](https://github.com/user-attachments/assets/392c900d-4361-4895-954c-06d324a22f4c)
+![Detail](https://github.com/user-attachments/assets/db316f01-3c44-4383-b4c4-e6c56da9bdd5)
+![Detail](https://github.com/user-attachments/assets/d7beba3f-8dd2-4a05-9479-728898bfa376)
+
 - Informasi lengkap produk
 - Bahan aktif dan target pengendalian
 - Harga dan stok
 
 ### Admin Panel
-![Admin]([screenshot-admin.png](https://github-production-user-asset-6210df.s3.amazonaws.com/280581372/609257894-220188e4-dbde-486f-a456-7c4868bc5b96.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260617%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260617T141821Z&X-Amz-Expires=300&X-Amz-Signature=1efc51d215a9eeb986cb7ada7a7ebce3cb24043b3be7f0cce74860c0a2d9ef2a&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng))
+![Admin](https://github.com/user-attachments/assets/1c525152-3fc3-47c6-a0bf-71e343bd252a)
+![Admin](https://github.com/user-attachments/assets/48132c5b-696c-441c-98d7-db11d98b046b)
+![Admin](https://github.com/user-attachments/assets/7c5b2b0a-9c3d-4370-83b1-8f36e3313762)
+
+![Admin](https://github.com/user-attachments/assets/9d264e03-67b2-4e86-b02d-7b91ffaeaec4)
+![Admin](https://github.com/user-attachments/assets/41ba0f1b-bbb2-4a26-9428-75c1a1f0afee)
+![Admin](https://github.com/user-attachments/assets/41ba0f1b-bbb2-4a26-9428-75c1a1f0afee)
+
+
+
+
+
 - Tabel produk dengan aksi CRUD
 - Form tambah/edit produk
 - Konfirmasi hapus
